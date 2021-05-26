@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+  .header .row {
+    flex-direction: column-reverse;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  img.img-bg {
+    height: 440px;
+  }
+  .header .text-style {
+    text-align: center;
+  }
+}

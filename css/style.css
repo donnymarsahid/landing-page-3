@@ -1,0 +1,22 @@
+body {
+  height: 3000px;
+}
+/* Navbar */
+.nav-link {
+  margin-left: 30px;
+}
+/* Navbar End */
+.img-bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 70vmax;
+  z-index: -1;
+}
+h1 {
+  font-size: 80px;
+}
+.btn {
+  background-color: yellowgreen;
+  color: white;
+}
